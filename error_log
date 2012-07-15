@@ -1,0 +1,30 @@
+[24-Jun-2012 15:01:30 UTC] PHP Parse error:  syntax error, unexpected '}' in /home2/nathanbr/public_html/cms/application/controllers/home.php on line 37
+[24-Jun-2012 15:01:34 UTC] PHP Parse error:  syntax error, unexpected '}' in /home2/nathanbr/public_html/cms/application/controllers/home.php on line 37
+[24-Jun-2012 16:14:02 UTC] PHP Parse error:  syntax error, unexpected ';' in /home2/nathanbr/public_html/cms/application/routes.php on line 79
+[24-Jun-2012 16:28:06 UTC] PHP Fatal error:  Class 'Post' not found in /home2/nathanbr/public_html/cms/application/routes.php on line 97
+[24-Jun-2012 22:52:22 UTC] PHP Parse error:  syntax error, unexpected ']' in /home2/nathanbr/public_html/cms/application/routes.php on line 206
+[24-Jun-2012 23:08:10 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home2/nathanbr/public_html/cms/application/routes.php on line 223
+[24-Jun-2012 23:08:19 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home2/nathanbr/public_html/cms/application/routes.php on line 223
+[24-Jun-2012 23:08:21 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home2/nathanbr/public_html/cms/application/routes.php on line 223
+[24-Jun-2012 23:51:55 UTC] PHP Parse error:  syntax error, unexpected ':' in /home2/nathanbr/public_html/cms/laravel/view.php(354) : eval()'d code on line 3
+[24-Jun-2012 23:53:29 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home2/nathanbr/public_html/cms/laravel/view.php(354) : eval()'d code on line 3
+[24-Jun-2012 23:58:44 UTC] PHP Parse error:  syntax error, unexpected '<' in /home2/nathanbr/public_html/cms/laravel/view.php(354) : eval()'d code on line 9
+[24-Jun-2012 23:58:58 UTC] PHP Parse error:  syntax error, unexpected ';' in /home2/nathanbr/public_html/cms/laravel/view.php(354) : eval()'d code on line 9
+[24-Jun-2012 23:59:01 UTC] PHP Parse error:  syntax error, unexpected ';' in /home2/nathanbr/public_html/cms/laravel/view.php(354) : eval()'d code on line 9
+[24-Jun-2012 23:59:12 UTC] PHP Parse error:  syntax error, unexpected ';' in /home2/nathanbr/public_html/cms/laravel/view.php(354) : eval()'d code on line 9
+[24-Jun-2012 23:59:23 UTC] PHP Parse error:  syntax error, unexpected ';' in /home2/nathanbr/public_html/cms/laravel/view.php(354) : eval()'d code on line 9
+[24-Jun-2012 23:59:25 UTC] PHP Parse error:  syntax error, unexpected ';' in /home2/nathanbr/public_html/cms/laravel/view.php(354) : eval()'d code on line 9
+[25-Jun-2012 00:10:05 UTC] PHP Parse error:  syntax error, unexpected ';' in /home2/nathanbr/public_html/cms/laravel/view.php(354) : eval()'d code on line 8
+[25-Jun-2012 00:10:21 UTC] PHP Parse error:  syntax error, unexpected '{' in /home2/nathanbr/public_html/cms/laravel/view.php(354) : eval()'d code on line 8
+[25-Jun-2012 00:10:31 UTC] PHP Parse error:  syntax error, unexpected '{' in /home2/nathanbr/public_html/cms/laravel/view.php(354) : eval()'d code on line 8
+[25-Jun-2012 00:10:38 UTC] PHP Parse error:  syntax error, unexpected ';' in /home2/nathanbr/public_html/cms/laravel/view.php(354) : eval()'d code on line 8
+[25-Jun-2012 00:10:52 UTC] PHP Parse error:  syntax error, unexpected ';' in /home2/nathanbr/public_html/cms/laravel/view.php(354) : eval()'d code on line 9
+[25-Jun-2012 00:10:55 UTC] PHP Parse error:  syntax error, unexpected ';' in /home2/nathanbr/public_html/cms/laravel/view.php(354) : eval()'d code on line 9
+[25-Jun-2012 00:11:05 UTC] PHP Parse error:  syntax error, unexpected ';' in /home2/nathanbr/public_html/cms/laravel/view.php(354) : eval()'d code on line 9
+[25-Jun-2012 00:20:27 UTC] PHP Parse error:  syntax error, unexpected T_ECHO in /home2/nathanbr/public_html/cms/laravel/view.php(354) : eval()'d code on line 31
+[25-Jun-2012 02:35:18 UTC] PHP Fatal error:  Call to undefined function show_error() in /home2/nathanbr/public_html/cms/application/controllers/auth.php on line 49
+[25-Jun-2012 02:48:02 UTC] PHP Parse error:  syntax error, unexpected '<' in /home2/nathanbr/public_html/cms/laravel/view.php(354) : eval()'d code on line 17
+[25-Jun-2012 02:49:06 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home2/nathanbr/public_html/cms/laravel/view.php(354) : eval()'d code on line 16
+[25-Jun-2012 03:19:28 UTC] PHP Fatal error:  Can't use function return value in write context in /home2/nathanbr/public_html/cms/application/controllers/auth.php on line 49
+[25-Jun-2012 04:58:27 UTC] PHP Fatal error:  Call to a member function authorize() on a non-object in /home2/nathanbr/public_html/cms/application/controllers/oauth.php on line 45
+[25-Jun-2012 05:15:13 UTC] PHP Fatal error:  Class 'Auth_Controller' not found in /home2/nathanbr/public_html/cms/laravel/routing/controller.php on line 226
